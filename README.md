@@ -9,6 +9,7 @@ A simple reusable JavaScript library for basic mathematical operations.
 - Multiplication
 - Division
 - Division-by-zero validation
+- Square of a number
 
 ## Usage
 

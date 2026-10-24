@@ -1,7 +1,7 @@
 
 /*
  * Simple Math Library
- * Version: 1.0.0
+ * Version: 1.1.0
  */
 
 const SimpleMath = {
@@ -22,6 +22,10 @@ const SimpleMath = {
             throw new Error("Division by zero is not allowed");
         }
         return a / b;
+    },
+
+    square: function (a) {
+        return a * a;
     }
 };
 
